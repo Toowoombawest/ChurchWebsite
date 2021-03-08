@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Toowoomba West Anglican Parish</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Posts on Toowoomba West Anglican Parish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Holy week services</title>
+      <link>https://example.com/post/holy_week/</link>
+      <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/holy_week/</guid>
+      <description>&lt;p&gt;Dates, times and locations for holy week services&lt;/p&gt;
+&lt;p&gt;Easter is around the corner, here are the dates, times and locations for Holy weeks services.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bible Study</title>
+      <link>https://example.com/post/bible/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/bible/</guid>
+      <description>Here are the times, locations for bible studys
+In Parish Center  Monday 10am and 2pm Saturday 10am  St Augustine&amp;rsquo;s  Tuesday 10am  173 West Street  Tuesday 7pm  M: 0407676917 </description>
+    </item>
+    
+    <item>
+      <title>Tazie</title>
+      <link>https://example.com/post/tazie/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/post/tazie/</guid>
+      <description>&lt;p&gt;Here are the dates for Tazie service, A service of Prayer, Silence and Song&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
