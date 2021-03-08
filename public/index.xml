@@ -2,55 +2,55 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Toowoomba West Anglican Parish</title>
-    <link>https://example.com/</link>
+    <link>https://pedantic-keller-d6b115.netlify.app/</link>
     <description>Recent content on Toowoomba West Anglican Parish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 08 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://pedantic-keller-d6b115.netlify.app/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Holy week services</title>
-      <link>https://example.com/post/holy_week/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/post/holy_week/</link>
       <pubDate>Mon, 08 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/holy_week/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/post/holy_week/</guid>
       <description>&lt;p&gt;Dates, times and locations for holy week services&lt;/p&gt;
 &lt;p&gt;Easter is around the corner, here are the dates, times and locations for Holy weeks services.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Bible Study</title>
-      <link>https://example.com/post/bible/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/post/bible/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bible/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/post/bible/</guid>
       <description>Here are the times, locations for bible studys
 In Parish Center  Monday 10am and 2pm Saturday 10am  St Augustine&amp;rsquo;s  Tuesday 10am  173 West Street  Tuesday 7pm  M: 0407676917 </description>
     </item>
     
     <item>
       <title>Tazie</title>
-      <link>https://example.com/post/tazie/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/post/tazie/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/tazie/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/post/tazie/</guid>
       <description>&lt;p&gt;Here are the dates for Tazie service, A service of Prayer, Silence and Song&lt;/p&gt;</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://example.com/archives/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/archives/</link>
       <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/archives/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/archives/</guid>
       <description></description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/about/</guid>
       <description>At St Alban&amp;rsquo;s Church Newtown and at St Augustine’s Rockville we are more than just a church, we are a community of people who come together to worship, learn, share &amp;amp; give in the name of God.
 Why not be part of something special?
 There are many different activities to be involved in with church services, baptisms bible studies, weddings, funerals, fundraisers, and of course our famous Teapot Extravaganza.
@@ -59,28 +59,28 @@ Come and join our loving and dedicated community of younger folk, single profess
     
     <item>
       <title>Give</title>
-      <link>https://example.com/give/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/give/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/give/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/give/</guid>
       <description>Give</description>
     </item>
     
     <item>
       <title>Resources</title>
-      <link>https://example.com/resources/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/resources/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/resources/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/resources/</guid>
       <description>Are you new At Toowoomba West Anglican | Newtown &amp;amp; Rockville, we know that inspiration opens hearts. An open heart is an open mind and an open mind is one that can practice tolerance, experience gratitude and feel the glory of God. It is our belief that God is present in all of us, but His active presence can only be felt through faith in Him. We are dedicated to the service of God and all his people, and our goal is to inspire you through the holiness of our dwelling and our services.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://example.com/contact/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/contact/</guid>
       <description>To contact us, please fill out the form below.
 </description>
     </item>

@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>themes on Toowoomba West Anglican Parish</title>
-    <link>https://example.com/tags/themes/</link>
+    <link>https://pedantic-keller-d6b115.netlify.app/tags/themes/</link>
     <description>Recent content in themes on Toowoomba West Anglican Parish</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/tags/themes/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 14 Aug 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://pedantic-keller-d6b115.netlify.app/tags/themes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bible Study</title>
-      <link>https://example.com/post/bible/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/post/bible/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/bible/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/post/bible/</guid>
       <description>Here are the times, locations for bible studys
 In Parish Center  Monday 10am and 2pm Saturday 10am  St Augustine&amp;rsquo;s  Tuesday 10am  173 West Street  Tuesday 7pm  M: 0407676917 </description>
     </item>
     
     <item>
       <title>Tazie</title>
-      <link>https://example.com/post/tazie/</link>
+      <link>https://pedantic-keller-d6b115.netlify.app/post/tazie/</link>
       <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/post/tazie/</guid>
+      <guid>https://pedantic-keller-d6b115.netlify.app/post/tazie/</guid>
       <description>&lt;p&gt;Here are the dates for Tazie service, A service of Prayer, Silence and Song&lt;/p&gt;</description>
     </item>
     
