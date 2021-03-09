@@ -1,0 +1,131 @@
+{{ define "header_css" }}{{ end }}
+
+{{ define "main" }}
+<div class="grid grid-cols-3 gap-4">
+  <div class="col-span-3 lg:col-span-2 mb-3">
+    <h2 class="text-4xl">{{ humanize .Title }}</h2>
+    {{if .IsHome}}
+    {{.Scratch.Set "Paginator" (.Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) (.Site.Params.paginator_pages) )}}
+    {{else}}
+    {{.Scratch.Set "Paginator" .Paginator}}
+    {{end}}
+    {{$paginator:=(.Scratch.Get "Paginator")}}
+    {{ range $paginator.Pages }}
+    <a href="{{.RelPermalink}}">
+      {{ .Render "summary" }}
+    </a>
+    {{ end }}
+    {{ partial "paginator.html" . }}
+  </div>
+  <div class="col-span-3 lg:block lg:col-span-1">
+
+
+    <div class="bg-white panel mb-3">
+        <p class="font-bold text-xl text-center py-3 px-3">Toowoomba West Anglican Parish times and locations:</p>
+         <p class="text-base text-center text-gray-700 py-3 px-3">
+        <br> <b>St Albans's</b>, Corner Anzac Ave and Hill street, Newtown, Sunday 10am
+         </p>
+        <p class="text-base text-center text-gray-700 py-3 px-3">
+        <b>St Augustines's</b>, 232 Tor St Rockville, Sunday 5am and 5:30pm
+      </p>
+      </div>
+
+      <div class="bg-white panel mb-3">
+
+        
+        <img class="w-1/3 p-3 float-right" src="img/pauline.jpg" alt="test">
+        <p class="text-xl text-center font-bold py-3 px-3">A message from Rev Pauline</p>
+        <p class="text-base text-left text-gray-700 py-3 px-3">
+          Welcome to St Alban’s and St Augustine’s Churches Toowoomba!
+          Whether you are just here for a brief time or considering making St Alban’s or
+          St Augustine’s your spiritual home, allow us to share with you, something about ourselves.
+          Firstly:
+          We value our tradition.
+          Our services of worship are, for the most part, Eucharistic.
+          That is, we focus our worship on the presence of Christ encountered
+          in the bread and wine of the Service of Holy Communion.
+          Secondly:
+          We value you.
+          We do so enjoy meeting new people, and if we can possibly find a reason to socialize with you (over a cup of tea or at one of our fundraisers,) we will! If you break bread with us you are one of the family.
+          ​Thirdly:
+          We value the grace of God at work in our lives.
+          We live in a stunning place—the spectacular Toowoomba City—God has blessed us greatly. We would love to share it with you!
+          Finally:
+          We value the community in which we find ourselves.
+          We want to offer you the gifts of worship, prayer and fellowship, all are welcome to be part of this wonderful and spirit filled community.
+          Blessings
+          Rev. Pauline
+          
+        </p>
+        </div>
+
+        <div class="bg-white panel mb-3">
+          <p class="text-base text-center text-gray-700 py-3 px-3">
+            Give<br>
+            Here is a link to bank details
+          </p>
+          </div>
+
+<!--
+    <div class="bg-white panel mb-3">
+      <p class="text-xl text-center text-gray-700 py-3 px-3">Archives</p>
+      {{ if eq .Site.Params.archive_dropdown "false" }}
+      {{ range $name, $items := .Site.Taxonomies.archives }}
+      <a class="text-center block py-2 px-4 duration-100 bg-white text-gray-800 hover:bg-gray-200"
+        href="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ .Count }})</a>
+      {{ end }}
+      {{ else }}
+      <select class="text-center block py-2 px-4 duration-100 bg-white hover:bg-gray-200 text-gray-800 w-full" name="archive"
+        onChange="location.href=value;">
+        <option>Select Archive...</option>
+        {{ range $name, $items := .Site.Taxonomies.archives }}
+        <option value="{{ $.Site.BaseURL }}/archives/{{ $name | urlize | lower }}">{{ $name }} ({{ .Count }})
+        </option>
+        {{ end }}
+      </select>
+      {{ end }}
+    </div>
+
+    
+
+    
+
+
+
+
+
+    {{ if .Site.Taxonomies.categories }}
+    <div class="bg-white panel mb-3 pb-5">
+      <p class="text-xl text-center text-gray-700 py-5">Categories</p>
+      {{ range $key, $value := .Site.Taxonomies.categories }}
+      <a class="text-center block duration-100 py-2 px-4 mx-4 hover:bg-gray-100 text-gray-800"
+        href="{{ $.Site.BaseURL }}/categories/{{ $key | urlize  }}">{{ $key | humanize }}</a>
+
+      {{ end }}
+    </div>
+      {{ end }}
+
+  
+    {{ if .Site.Taxonomies.tags }}
+    <div class="bg-white panel mb-3">
+      <p class="text-xl text-center text-gray-700 py-3 pl-3">Tags</p>
+      <div class="panel-block p-2">
+        {{- range $termName, $entries := .Site.Taxonomies.tags }}
+        <a href="{{ "/tags/" | relLangURL }}{{ $termName | urlize }}">
+          <span
+            class="duration-100 inline-flex py-2 leading-4 mr-2 mb-2 content-center bg-gray-100 justify-center h-8 px-3 text-blue-500 hover:text-blue-900">
+            {{ $termName }}
+          </span></a>
+        {{- end }}
+      </div>
+    </div>
+  
+  
+
+
+    {{ end }}
+
+  -->
+  </div>
+</div>
+{{ end }}
