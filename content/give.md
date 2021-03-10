@@ -7,7 +7,7 @@ author = "Hugo Authors"
 daft = "false"
 
 +++
-# Heading
+
 **How to Give in These Troubled Times,**
 
 **A letter from Rev. Pauline**
@@ -20,7 +20,7 @@ Bank details are as follows:
 An easier alternative is to Click the link below for direct link via ANFIN, the
 Diocese financial department.Your offering goes through ANFIN but is immediately deposited into our Toowoomba West account, so your contribution makes a difference.
 
-
+[Direct link to AFNIN on-line](https://www.bpoint.com.au/pay/TIM/?BillerCode=1723980)
 
 For those who wish to still give by your envelopes could you please email us
 back so as we can make arrangements for collection of these. 
@@ -29,20 +29,13 @@ and other material to the folk not connected to the internet.
 The plan would be for them to collect your envelopes from the areas
 in which they deliver to.
 
-​
-
-We have been working hard at revising our budget and we are looking
+​We have been working hard at revising our budget and we are looking
 at ways in which to either defer payments and/or save in many areas.
 Parish Council is still meeting on the 4th Monday of each month via Zoom,
 making decisions to guide us through these difficult times.
 
-​
-
-We thank you for your ongoing support during this time of crisis.
+​We thank you for your ongoing support during this time of crisis.
 PLEASE CONTINUE TO SUPPORT YOUR CHURCH
 
-​
-
-Blessings 
-
+​Blessings 
 Pauline

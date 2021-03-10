@@ -1,15 +1,14 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "About Toowoomba West Anglican Parish, St Alban's and St Augustine's"
+author = "Church"
 draft = "false"
 +++
 
 {{< rawhtml >}}<br>{{< /rawhtml >}} 
 
 ### Welcome
+
 At St Alban's Church Newtown and at St Augustine’s Rockville we are more than just a church, we are a community of people who come together to worship, learn, share & give in the name of God.
 
 Why not be part of something special?
@@ -22,16 +21,11 @@ Come and join our loving and dedicated community of younger folk, single profess
 
 ### Are you new
 
-{{< rawhtml >}}<br>{{< /rawhtml >}}
-
-<br>At Toowoomba West Anglican | Newtown & Rockville, we know that inspiration opens hearts.
+At Toowoomba West Anglican | Newtown & Rockville, we know that inspiration opens hearts.
 An open heart is an open mind and an open mind is one that can practice tolerance, experience gratitude and feel the glory of God.
 It is our belief that God is present in all of us, but His active presence can only be felt through faith in Him.
 We are dedicated to the service of God and all his people, and our goal is to inspire you through the holiness of our dwelling and our services.
 We invite you to become a part of our growing congregation
-
-
-
 
 ### Service Times & Styles
 

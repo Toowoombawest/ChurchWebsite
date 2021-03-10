@@ -1,46 +1,42 @@
 ---
 title : "Resources"
-description : "Hugo, the world's fastest framework for building websites"
-date : "2019-02-28"
-aliases : ["about-us", "about-hugo", "contact"]
-author : "Hugo Authors"
+description : "Resources for the church"
+date : "2021-02-28"
+
+author : "Church"
 ---
 
 
 
 
-### Pastoral services
+#### Pastoral services
+
+ 
+
+ 
+
+### BAPTISM
 
 Baptisms are performed at our regular Sunday services.
 
-If you or a member of your family would like to be baptised, we'd love to talk to you about the process. 
-
- 
-
-BAPTISM
+If you or a member of your family would like to be baptised, we'd love to talk to you about the process.
 
 As a part of the process leading up to Baptism we would ask that you attend a church service and a preparation meeting following the service on the first Sunday of the month (Unless otherwise arranged with the Parish Priest). This is a meeting when the priest or priest's representative will take you through the details of the celebration.
 
-​
-
-As a part of organising your Baptism you will need to think about who you want to have as sponsors or godparents. Normally three godparents are chosen. Two are of the same gender as the child. However, two or four godparents can be chosen. There is a requirement that the godparents be baptised Christians. This is because they are making a promise and a commitment for the child to be a member of the Church and to believe the Christian faith. However, they do not necessarily have to be members of the Anglican Church. If, however, the Godparents you would like are not baptised you may like to invite them to consider baptism for themselves.
-
- 
+​As a part of organising your Baptism you will need to think about who you want to have as sponsors or godparents. Normally three godparents are chosen. Two are of the same gender as the child. However, two or four godparents can be chosen. There is a requirement that the godparents be baptised Christians. This is because they are making a promise and a commitment for the child to be a member of the Church and to believe the Christian faith. However, they do not necessarily have to be members of the Anglican Church. If, however, the Godparents you would like are not baptised you may like to invite them to consider baptism for themselves.
 
 Costs
 
 There is no fee for a baptism conducted during a service. It is a privilege and a pleasure for us to be able to offer this sacrament. If you wish, however, to make a donation, you may put it in the offering plate that is circulated during the service or give it to the priest who takes your baptism service.
 
- 
-
 Should you wish to have a baptism service outside regular services, a fee is incurred. Please discuss this with the priest.
-
- 
 
 To Make an Enquiry
 
 If you have any questions or would like to organise a Baptism please contact the Parish Office on (07) 4638 5521. Rev Pauline will be only to happy to speak to you and help your organise this special occasion.
-Wedding
+
+
+### Funeral
 
 If you are on this page because you have just lost a loved one, we are so sorry. Please accept our sympathies. We hope that is some way we may be able to assist you at this time.
 
@@ -65,6 +61,8 @@ Arrangements
 Please feel free to contact us at your convenience to make any arrangements by contacting the Parish Office or Rev. Pauline
 Confirmation
 Pastoral Care
+
+### Wedding
 
 The Anglican Church at Toowoomba West can offer you a Christian celebration of your wedding that will become a joyful memory that lives on in your married life together.
 
@@ -97,7 +95,7 @@ At the first meeting you be given a copy of the order of service and be taken th
 If either of you have been divorced, you will need to bring the court documentation. In these situations, permission from the Bishop has to be granted before the wedding can take place. A Priest will guide on this matter.
 
 ​
-Wedding Preparation
+### Wedding Preparation
 
 A Christian marriage has, at its heart, vows pledging a life-long commitment.
 
@@ -113,9 +111,14 @@ The other reason for marriage preparation is the difficulty in holding a marriag
 
 Please contact the Parish Office on (07) 4638 5521 for more information.
 
+### Confirmation
+
 It is always our pleasure officiate when the need arises
 
 Our Priest or appropriate person will be only too happy to help you organise these special events.
+
+
+### Pastoral Care
 
 We at Toowoomba West love carting for our members and those in our community, we want to share the love of Jesus with all.
 

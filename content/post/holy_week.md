@@ -1,15 +1,15 @@
 +++
-title = "Holy week services"
+title = "Holy Week Services"
 description = "Dates, times and locations for services"
 date = "2021-03-08"
-aliases = ["about-us", "about-hugo", "contact"]
 author = "Church"
 image = "img/holy.jpg"
 +++
 
-Dates, times and locations for holy week services
 
-Easter is around the corner, here are the dates, times and locations for Holy weeks services.
+Easter is around the corner, here are the dates, times and locations for Holy weeks services. We hope you can come along.
+
+
 
 
 # Palm Sunday: 28th March

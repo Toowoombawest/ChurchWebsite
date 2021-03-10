@@ -10,17 +10,17 @@ description = "Bible Study Times"
 
 Here are the times, locations for bible studys
 
-## In Parish Center
+# In Parish Center
 
 * Monday 10am and 2pm
 * Saturday 10am
 
-## St Augustine's
+# St Augustine's
 
 * Tuesday 10am
 
-## 173 West Street
+# 173 West Street
 
 * Tuesday 7pm
 
-## M: 0407676917
+# M: 0407676917
