@@ -20,7 +20,7 @@ Bank details are as follows:
 An easier alternative is to Click the link below for direct link via ANFIN, the
 Diocese financial department.Your offering goes through ANFIN but is immediately deposited into our Toowoomba West account, so your contribution makes a difference.
 
-[Direct link to AFNIN on-line](https://www.bpoint.com.au/pay/TIM/?BillerCode=1723980)
+#### [Direct link to AFNIN on-line](https://www.bpoint.com.au/pay/TIM/?BillerCode=1723980)
 
 For those who wish to still give by your envelopes could you please email us
 back so as we can make arrangements for collection of these. 
