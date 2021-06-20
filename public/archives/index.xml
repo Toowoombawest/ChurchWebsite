@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Toowoomba West Anglican Parish</title>
-    <link>https://pedantic-keller-d6b115.netlify.app/archives/</link>
+    <link>http://www.toowoombawest.org/archives/</link>
     <description>Recent content in Archives on Toowoomba West Anglican Parish</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pedantic-keller-d6b115.netlify.app/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://www.toowoombawest.org/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
