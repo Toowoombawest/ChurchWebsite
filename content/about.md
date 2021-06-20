@@ -34,19 +34,21 @@ We invite you to become a part of our growing congregation
 
 Our services are centred on worship and encountering the presence of Christ through Holy Communion. We have three regular services every Sunday, each offering its own unique worship experience, and a mid-week services on Wednesday
 
-​
+
+![St Albans](/img/alban.jpg)
+
+​**Sunday 10:00am (St Alban)**
+
+Our 10:00am service is our most popular service and celebrates the Church as a family.This service has a fantastic mix of all ages and is a favourite among our young families. This service is perfect for anyone who would love a service with a relaxed atmosphere with a modern take on the traditional Anglican service.
+
+
+​![St Augustine](/img/aug.jpg)
+
 
 **Sunday 8:00am (St Augustine)**
 
 Our 8:00am service is a traditional Anglican service that celebrates the Anglican tradition. Bright and early on a Sunday morning this beautiful service follows a familiar format from the Australian Prayer Book. This service is perfect for seniors and worshippers wanting a traditional Anglican experience.
 
-​
-
-**Sunday 10:00am (St Alban)**
-
-Our 10:00am service is our most popular service and celebrates the Church as a family.This service has a fantastic mix of all ages and is a favourite among our young families. This service is perfect for anyone who would love a service with a relaxed atmosphere with a modern take on the traditional Anglican service.
-
- 
 
 **Sunday 5:30pm (St Augustine)**
 
@@ -58,6 +60,4 @@ This service is perfect for anyone wanting a time to reflect and prepare for the
 
 ​
 
-**Wednesday 9:00am (St Augustine)**
 
-Our mid-week service again is smaller and more intimate, and is attended by a faithful group of worshippers escaping the hustle and bustle of the week. With a condensed format and goes for approximately 30 - 45 minutes, this service is perfect for anyone who would love to escape the hustle and bustle of the week with a time of quiet worship.

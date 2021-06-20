@@ -19,10 +19,10 @@ description = "St Alban's Day"
 
 
 #### Next Sundays Bible Readings
-* **First Reading** 2 Samuel 1.1, 17-27
-* **Second Reading** 2 Corinthians 8.7-15
-* **Gospel Reading** Mark 5. 21-43
-* **Psalm** Psalm -  130
+> * **First Reading**: 2 Samuel 1.1, 17-27
+> * **Second Reading**: 2 Corinthians 8.7-15
+> * **Gospel Reading**: Mark 5. 21-43
+> * **Psalm**: Psalm -  130
 
 ---
 
