@@ -21,11 +21,15 @@ paginator_pages = "5"
 
 # Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "false"
-canonical = "https://www.test.com"
 
-  [params.seo]
-    description = "this is the main page"
-    canonical = "https://www.test.com"
+
+  [params.event]
+
+    first = "Wednesday 23rd June - 10:30am - Service Ozcare"
+    second = "Thursday 24th June - 9:00am - Bible Study(Ladies) @Gail's House"
+    third = "Thursday 24th June - 2:00pm - Calm Colouring"
+    fourth = "Friday 25th June - 10:30am - Morning Tea St Augustine's Hall"
+    fifth = "Friday 25th June - 6:00pm - Prayer & Praise Dinner St Alban's Hall"
 
   [params.post]
     # See the Tailwind CSS documentation to set it up.
