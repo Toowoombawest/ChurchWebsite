@@ -21,6 +21,11 @@ paginator_pages = "5"
 
 # Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "false"
+canonical = "https://www.test.com"
+
+  [params.seo]
+    description = "this is the main page"
+    canonical = "https://www.test.com"
 
   [params.post]
     # See the Tailwind CSS documentation to set it up.
@@ -30,7 +35,6 @@ archive_dropdown = "false"
 
     # https://tailwindcss.com/docs/width
     thumbnail_width = "w-auto"
-
 
 
 [menu]
