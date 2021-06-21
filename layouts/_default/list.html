@@ -1,9 +1,9 @@
 {{ define "header_css" }}{{ end }}
 
 {{ define "main" }}
-<div class="grid grid-cols-3 gap-4">
+<div class="grid grid-cols-3 gap-3">
   <div class="col-span-3 lg:col-span-2 mb-3">
-    <h2 class="text-4xl">{{ humanize .Title }}</h2>
+    <h2 class="text-4x1">{{ humanize .Title }}</h2>
     {{if .IsHome}}
     {{.Scratch.Set "Paginator" (.Paginate (where .Site.RegularPages "Type" "in" site.Params.mainSections) (.Site.Params.paginator_pages) )}}
     {{else}}
@@ -27,7 +27,9 @@
 
 
 
-
+    <div class=" hidden lg:block bg-blue-50 panel mb-3">
+      <p></p>
+  </div>
 
 
 

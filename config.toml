@@ -4,7 +4,6 @@ author = "Church"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
-
 enableRobotsTXT = true
 
 # Please enable this feature if the site is available in Japanese, Chinese or Korean.
@@ -31,6 +30,8 @@ archive_dropdown = "false"
 
     # https://tailwindcss.com/docs/width
     thumbnail_width = "w-auto"
+
+
 
 [menu]
 
