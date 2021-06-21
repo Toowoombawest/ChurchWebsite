@@ -1,9 +1,11 @@
 ---
 title: "Contact"
-description: "Contact the church"
 date: 2019-02-30
 aliases: ["contact"]
 author: "Hugo Authors"
+seo: 
+    description: "this is the contact page"
+    canonical: "http://toowoombawest.org"
 ---
 
 
