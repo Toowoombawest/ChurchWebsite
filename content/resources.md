@@ -80,29 +80,7 @@ Contact by e-mail admin@toowoombawest.org to arrange an appointment or the Paris
 
 ​If either of you have been divorced, you will need to bring the court documentation. In these situations, permission from the Bishop has to be granted before the wedding can take place. A Priest will guide on this matter.
 
-​
-## Wedding Preparation
-
----
-
-A Christian marriage has, at its heart, vows pledging a life-long commitment.
-
-​We want to ensure that your marriage begins on a solid foundation that will take you through the years ahead in a journey of trust, loyalty, support and deepening love. We therefore ask all couples to have some form of accredited marriage preparation for this journey of life. We recommend that you consider Prepare and Enrich. 
-
-​The other reason for marriage preparation is the difficulty in holding a marriage together with stress and problems. The very high divorce rate in our nation is evidence of this difficulty. Behind the statistics are unpleasant court procedures, financial hardship, along with confusion and deep hurt. Marriage preparation will not eliminate problems, but it will guide you on how to face them together in trust and mutual support.
-
-​Please contact the Parish Office on (07) 4638 5521 for more information.
-
-## Confirmation
-
----
-
-It is always our pleasure officiate when the need arises
-
-Our Priest or appropriate person will be only too happy to help you organise these special events.
-
 ## Pastoral Care
-
 ---
 
 We at Toowoomba West love caring for our members and those in our community, we want to share the love of Jesus with all.

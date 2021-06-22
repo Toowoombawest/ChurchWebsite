@@ -62,8 +62,9 @@
 {{ with .Params.seo.canonical }}
   {{- $.Scratch.SetInMap "seo" "canonical" (. | absURL) -}}
 {{ else }}
-{{- $.Scratch.SetInMap "seo" "canonical" .Permalink -}}
+{{- $.Scratch.SetInMap "seo" "canonical" .Site.Params.canonical -}}
 {{ end }}
+
 
 {{- partial "seo/extend" . -}}
 

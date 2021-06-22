@@ -21,6 +21,7 @@ paginator_pages = "5"
 
 # Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "false"
+canonical = "https://www.toowoombawest.org"
 
 
   [params.event]
