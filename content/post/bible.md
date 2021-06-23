@@ -1,12 +1,16 @@
-+++
-author = "church"
-title = "Bible Study"
-image = "img/bible.jpg"
-draft = false
-date = 2021-03-01
-description = "Bible Study Times"
+---
+author: "church"
+title: "Bible Study"
+image: "img/bible.jpg"
+draft: false
+date: 2021-03-01
+description: "Bible Study Times"
 
-+++
+seo: 
+    description: "This is the contact page for St Alban's Church and St Augustine's Church Toowoomba"
+    canonical: "http://toowoombawest.org/post/bible"
+
+---
 
 Here are the times, locations for bible studys
 

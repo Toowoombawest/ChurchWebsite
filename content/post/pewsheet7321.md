@@ -1,11 +1,15 @@
-+++
-author = "Church"
-title = "Pew Sheet 20th June 2021"
-image = "img/pew.jpg"
-draft = false
-date = 2021-06-20
-description = "St Alban's Day"
-+++
+---
+author: "Church"
+title: "Pew Sheet 20th June 2021"
+image: "img/pew.jpg"
+draft: false
+date: 2021-06-20
+description: "St Alban's Day"
+
+seo: 
+    description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
+    canonical: "http://toowoombawest.org/post/pewsheet7321"
+---
 
 
 #### Sentence

@@ -4,6 +4,9 @@ description : "Resources for the church"
 date : "2021-02-28"
 
 author : "Church"
+seo: 
+    description: "This is the Resorces page for St Alban's Church and St Augustine's Church Toowoomba"
+    canonical: "http://toowoombawest.org/resources"
 ---
 
 

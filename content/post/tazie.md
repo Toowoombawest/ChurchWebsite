@@ -1,14 +1,18 @@
 ---
 author: "Church"
-title: "Tazie"
+title: "Tazié"
 image: "img/candle.jpg"
 draft: false
 date: 2021-03-01
 description: "Service for Tazie"
+seo: 
+    description: "This is a tazie page for St Alban's Church and St Augustine's Church Toowoomba"
+    canonical: "http://toowoombawest.org/post/tazie"
+
 
 ---
 
-Here are the dates for Tazie service, A service of Prayer, Silence and Song
+Here are the dates for Tazié service, A service of Prayer, Silence and Song
 <!--more-->
 
 

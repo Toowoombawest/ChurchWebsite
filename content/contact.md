@@ -1,10 +1,10 @@
 ---
 title: "Contact"
-date: 2019-02-30
+date: 2021-06-21
 aliases: ["contact"]
-author: "Hugo Authors"
+author: "Toowoomba West Anglican Parish"
 seo: 
-    description: "this is the contact page"
+    description: "This is the contact page for St Alban's Church and St Augustine's Church Toowoomba"
     canonical: "http://toowoombawest.org/contact"
 ---
 

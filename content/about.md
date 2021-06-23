@@ -1,9 +1,14 @@
-+++
-title = "About"
-description = "About Toowoomba West Anglican Parish, St Alban's and St Augustine's"
-author = "Church"
-draft = "false"
-+++
+---
+title: "About"
+description: "About Toowoomba West Anglican Parish, St Alban's and St Augustine's"
+author: "Church"
+draft: "false"
+
+seo: 
+    description: "This is the about page for St Alban's Church and St Augustine's Church, Toowoomba"
+    canonical: "http://toowoombawest.org/about"
+
+---
 
 {{< rawhtml >}}<br>{{< /rawhtml >}} 
 

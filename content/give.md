@@ -1,12 +1,16 @@
-+++
-title = "Giving"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
-daft = "false"
+---
+title: "Giving"
+description: "Church page for giving"
+date: "2021-06-21"
+aliases: ["giving", "charity", "church"]
+author: "Toowoomba West Anglican Parish"
+daft: "false"
 
-+++
+seo: 
+    description: "This is the give page for St Alban's Church and St Augustine's Church, Toowoomba churches"
+    canonical: "http://toowoombawest.org/give"
+
+---
 
 **How to Give in These Troubled Times,**
 
