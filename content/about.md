@@ -19,7 +19,7 @@ At St Alban's Church Newtown and at St Augustine’s Rockville we are more than 
 
 Why not be part of something special?
 
-There are many different activities to be involved in with church services, baptisms bible studies, weddings, funerals, fundraisers, and of course our famous Teapot Extravaganza.
+There are many different activities to be involved in with church services, baptisms, bible studies, weddings, funerals, fundraisers, and of course our famous Teapot Extravaganza.
 
 Come and join our loving and dedicated community of younger folk, single professionals, loving families and active seniors and meet your new family under God.
 
