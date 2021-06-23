@@ -5,7 +5,7 @@ aliases: ["contact"]
 author: "Hugo Authors"
 seo: 
     description: "this is the contact page"
-    canonical: "http://toowoombawest.org"
+    canonical: "http://toowoombawest.org/contact"
 ---
 
 
