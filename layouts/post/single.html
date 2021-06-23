@@ -20,7 +20,7 @@
             </div>
         </aside>
         {{ if .Params.image }}
-        <img class="my-4" src="{{ .Params.image | absURL }}">
+        <img class="my-4" src="{{ .Params.image | absURL }}" width="75%" height="75%">
         {{ end }}
         <div class="content">{{.Content}}</div>
         <hr class="py-2">
