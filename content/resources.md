@@ -71,7 +71,7 @@ The parish extend a warm welcome to all visitors to discover the beauty of St Al
 
 ​What you need to do:
 
-Contact by e-mail admin@toowoombawest.org to arrange an appointment or the Parish Office on (07) 4638 5521 to leave a message.
+Contact by e-mail toowoombawest@anglicanchurchsq.org.au to arrange an appointment or the Parish Office on (07) 4638 5521 to leave a message.
 
 ​Make an appointment to discuss the required documents. Bring original copies of your full birth certificates, also evidence of baptism (for at least one of you). If either of you were born outside of Australia a passport will suffice if you have no birth certificate.
 

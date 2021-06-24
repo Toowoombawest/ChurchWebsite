@@ -23,4 +23,4 @@ Wednesday & Thursday
 
 Phone: 07 4638 5521
 
-Email: admin@toowoombawest.org 
+Email: toowoombawest@anglicanchurchsq.org.au 
