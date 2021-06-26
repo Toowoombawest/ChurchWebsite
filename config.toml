@@ -26,11 +26,12 @@ canonical = "https://www.toowoombawest.org"
 
   [params.event]
 
-    fifth = "Saturday 26th June - 6:00pm - Taizé at St Alban's"
-    fourth = "Saturday 26th June - 4:00pm - Winter Shelter St Alban's Hall"
-    third = "Saturday 26th June - 8:00am - Working Bee St Augustine's"
-    first = "Friday 25th June - 10:30am - Morning Tea St Augustine's Hall"
-    second = "Friday 25th June - 6:00pm - Prayer & Praise Dinner St Alban's Hall"
+    first = "Thrusday 1st July - 9:00am - Bible Study @ Gail's House"
+    second = "Thrusday 1st July - 2:00pm - Calm Colouring"
+    third = "Saturday 3rd July - 8:00am - Healing Service St Augustine's"
+    fourth = "Saturday 3rd July - 4:00pm - Winter Shelter St Alban's Hall"
+    fifth = "Monday 5th July - 10:00am - Bible Study at Ministry Centre"
+    
 
   [params.post]
     # See the Tailwind CSS documentation to set it up.
