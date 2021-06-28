@@ -14,7 +14,7 @@ seo:
 
 #### Sentence
 
-> The steadfast loce of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness
+> The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness
 
 #### Prayer of the Day
 
