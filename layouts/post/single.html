@@ -39,16 +39,16 @@
                 <div class="col-span-1">
                     {{ with .PrevInSection }}
                     <a class="previous lg:text-2xl" href="{{.Permalink}}">
-                        <div class="bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
-                            &lt; {{.Title}}
+                        <div class="bg-yellow-200 h-auto m-3 text-center py-3 lg:py-1 border-solid border-l-8 border-green-700 rounded-sm">
+                             {{.Title}}
                         </div>
                     </a>
                     {{ end }}
                 </div>
                 {{ with .NextInSection }}
                 <a class="next lg:text-2xl" href="{{.Permalink}}">
-                    <div class="col-span-1 bg-gray-200 h-auto m-3 text-center py-3 lg:py-1">
-                        {{.Title}} &gt;
+                    <div class="col-span-1 bg-yellow-200 h-auto m-3 text-center py-3 lg:py-1 border-solid border-r-8 border-green-700 rounded-sm">
+                        {{.Title}}
                     </div>
                 </a>
                 {{ end }}
