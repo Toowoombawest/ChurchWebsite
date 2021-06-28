@@ -104,7 +104,7 @@
   margin-bottom: 3em;
 }
 .content li {
-  font-size: 1.1em;
+  font-size: 1.0em;
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
 }
@@ -117,20 +117,21 @@
 .content p {
   padding-top: 0.25rem;
   padding-bottom: 0.25rem;
-  font-size: 1.1em;
+  font-size: 1.0em;
   letter-spacing: 0.03em;
 }
 .content h1 {
-  font-size: 2.25rem;
+  font-size: 2.0rem;
 }
 .content h2 {
   font-size: 1.4em;
-  padding-top: 0.55em;
-  padding-bottom: 0.5em;
-  padding-left: 0.5em;
-  background-color: #f6f6f6;
-  border-left: 4px solid #222;
+  padding-top: 0.35em;
+  padding-bottom: 0.3em;
+  padding-left: 0.3em;
+  background-color: #fafafa;
+  border-right: 6px solid rgb(187, 148, 65);
   font-weight: 700;
+  border-radius: 2px;
 }
 .content h3 {
   font-size: 1.5rem;

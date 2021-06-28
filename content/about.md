@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "About."
 description: "About Toowoomba West Anglican Parish, St Alban's and St Augustine's"
 author: "Church"
 draft: "false"

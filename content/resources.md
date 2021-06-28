@@ -1,5 +1,5 @@
 ---
-title : "Resources"
+title : "Resources."
 description : "Resources for the church"
 date : "2021-02-28"
 
