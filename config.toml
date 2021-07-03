@@ -26,11 +26,11 @@ canonical = "https://www.toowoombawest.org"
 
   [params.event]
 
-    first = "Thrusday 1st July - 9:00am - Bible Study @ Gail's House"
-    second = "Thrusday 1st July - 2:00pm - Calm Colouring"
-    third = "Saturday 3rd July - 8:00am - Healing Service St Augustine's"
-    fourth = "Saturday 3rd July - 4:00pm - Winter Shelter St Alban's Hall"
-    fifth = "Monday 5th July - 10:00am - Bible Study at Ministry Centre"
+    first = "Monday 5th July - 10:00am and 2:00pm - Bible Study at Ministry Centre"
+    second = "Tuesday 6th July - 10:00am - Bible Study at St Augustine's"
+    third = "Tuesday 6th July - 7:00pm - Bible Study @ Pauline's House"
+    fourth = "Wednesday 7th July - 10:30am - Service Glenvale Villa's"
+    fifth = "Thrusday 8th July - 9:00am - Bible Study @ Gail's House"
     
 
   [params.post]
