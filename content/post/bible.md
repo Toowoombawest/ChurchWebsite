@@ -3,7 +3,7 @@ author: "church"
 title: "Bible Study"
 image: "img/bible.jpg"
 draft: false
-date: 2021-03-01
+date: 2021-06-21
 description: "Bible Study Times"
 
 seo: 

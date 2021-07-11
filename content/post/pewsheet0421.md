@@ -1,32 +1,32 @@
 ---
 author: "Church"
-title: "Pew Sheet 27th June 2021"
-image: "img/stalbanday.jpg"
+title: "Pew Sheet 4th July 2021"
+image: "img/bible002.jpg"
 draft: false
-date: 2021-06-27
-description: "Fifth Sunday after Pentecost"
+date: 2021-07-04
+description: "Sixth Sunday after Pentecost"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
-    canonical: "http://toowoombawest.org/post/pewsheet27621"
+    canonical: "http://toowoombawest.org/post/pewsheet0421"
 ---
 
 
 #### Sentence
 
-> The steadfast love of the Lord never ceases, his mercies never come to an end; they are new every morning; great is your faithfulness
+> Of Jesus many said, ‘What is this wisdom that has been given to him? What deeds of power are being done by his hands!’ mark 6:2
 
 #### Prayer of the Day
 
-> O Christ for whom we search, out help when help has failed: give us courage to expose our need and ask to be made whole, that, being touched by you, we may be raised to new life in the power of your name. Amen
+> O Lord our God, you are always more ready to bestow your good gifts upon us than we are to seek them; and more willing to give than we desire or deserve: in our every need, grant us the first and best of all your gifts, the Spirit who makes us your children. We ask this through our Lord Jesus Christ, your Son, who lives and reigns with you in the unity of the Holy Spirit, one God for ever and ever. . Amen
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: 2 Samuel 5.1-5, 9-10
-> * **Second Reading**: 2 Corinthians 12.2-10
-> * **Gospel Reading**: Mark 6 1-13
-> * **Psalm**: Psalm -  48
+> * **First Reading**: 2 Samuel 6.1-5, 12b - 19
+> * **Second Reading**: Ephesians 1.1-14
+> * **Gospel Reading**: Mark 6 14-29
+> * **Psalm**: Psalm -  24
 
 ---
 
@@ -70,4 +70,4 @@ Our next Garage Sale will be held on September 17 & 18. Please keep all salable 
 30th October - A comedy "One Slight Hitch".
 
 **Show your Colours**
-Cursillistas, Please wear rainbow colours, butterflies etc on 11th July(the date may change, watch this space)S
+Cursillistas, Please wear rainbow colours, butterflies etc on 11th July(the date may change, watch this space)

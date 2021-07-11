@@ -3,7 +3,7 @@ author: "Church"
 title: "Taizé"
 image: "img/candle.jpg"
 draft: false
-date: 2021-03-01
+date: 2021-06-21
 description: "Service for Tazie"
 seo: 
     description: "This is a taize page for St Alban's Church and St Augustine's Church Toowoomba"
