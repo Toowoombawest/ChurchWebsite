@@ -17,7 +17,7 @@ enableRobotsTXT = true
 
 [params]
 # The number of articles to be displayed on a single page.
-paginator_pages = "5"
+paginator_pages = "6"
 
 # Enable this if you want the archive list to be in a drop-down format.
 archive_dropdown = "false"
@@ -26,11 +26,11 @@ canonical = "https://www.toowoombawest.org"
 
   [params.event]
 
-    first = "Monday 5th July - 10:00am and 2:00pm - Bible Study at Ministry Centre"
-    second = "Tuesday 6th July - 10:00am - Bible Study at St Augustine's"
-    third = "Tuesday 6th July - 7:00pm - Bible Study @ Pauline's House"
-    fourth = "Wednesday 7th July - 10:30am - Service Glenvale Villa's"
-    fifth = "Thrusday 8th July - 9:00am - Bible Study @ Gail's House"
+    first = "Monday 12th July - 10:00am and 2:00pm - Bible Study at Ministry Centre"
+    second = "Monday 12th July - 2:00pm - Bible Study at Ministry Centre"
+    third = "Tuesday 13th July - 10:00am - Bible Study at St Augustine's"
+    fourth = "Tuesday 13th July - 1:30pm - St Alban's Guild Meeting"
+    fifth = "Tuesday 13th July - 7:00pm - Bible Study at Pauline's House"
     
 
   [params.post]
