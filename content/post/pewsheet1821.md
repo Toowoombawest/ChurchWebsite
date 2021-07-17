@@ -1,32 +1,32 @@
 ---
 author: "Church"
-title: "Pew Sheet 11th July 2021"
-image: "img/cross002.jpg"
+title: "Pew Sheet 18th July 2021"
+image: "img/spirt.jpg"
 draft: false
-date: 2021-07-10    
-description: "Seventh Sunday after Pentecost"
+date: 2021-07-17    
+description: "Eighth Sunday after Pentecost"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
-    canonical: "http://toowoombawest.org/post/ps11"
+    canonical: "http://toowoombawest.org/post/pewsheet1821"
 ---
 
 
 #### Sentence
 
-> Who shall stand in the Lord’s holy place? Those who have clean hands and pure hearts, who do not lift up their hands to what is false. Psalm 23: 3 - 4
+> As he went ashore, Jesus saw a great crowd; and he had compassion on them, because they were like sheep without a shepherd; and he began to teach them many things. Mark 6:34
 
 #### Prayer of the Day
 
-> Eternal God, open our eyes to see your hand at work in the splendour of creation and in the beauty of human life. Help us to cherish the gifts that surround us, to share our blessings with our sisters and brothers, and to experience the joy of life in your presence; through Jesus Christ, our Lord, who lives and reigns with you in the unity of the Holy Spirit, one God for ever and ever. . Amen.
+> Eternal God, author of our life and end of our pilgrimage: guide us by your word and Spirit amid all perils and temptations, that we may not wander from your way, but may run our course in safety until we come to our eternal rest in you; through Jesus Christ, our Lord, who lives and reigns with you and the Holy Spirit, one God for ever and ever.  Amen.  
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: 2 Samuel 7: 1 - 14
-> * **Second Reading**: Ephesians 2: 11-22
-> * **Gospel Reading**: Mark 6 1-16
-> * **Psalm**: Psalm 89: 21-38
+> * **First Reading**: 2 Samuel 11: 1 - 15
+> * **Second Reading**: Ephesians 3: 14-21
+> * **Gospel Reading**: John 6 1-21
+> * **Psalm**: Psalm 14
 
 ---
 
@@ -38,9 +38,7 @@ if you would like a name badge please write your name on the sheet in the foyer.
 #### Notices
 ---
 
-**Working Bee**
 
-Working Bee St Alban’s  Sat 17th commencing at 8am and finishing with BBQ for workers. Your assistance is required
 
 **Stable One Project**
 
@@ -57,9 +55,9 @@ Please bring non-perishable items to church on  the 1st Sunday of the month.
 **Prayer and Praise Service**
 6:00pm 2nd and 4th Friday nights of the month at St Alban's. Dinner, music and fun for all the family. Some young or youngish musicians are required to help play some contemporary songs and/or older hymns jazzed. If you know any musicians please encourge them to speak with Pauline.
 
-**Bishop Cam is coming to visit**
+**Child Protection Training**
 
-Bishop Cam is coming to visit 18th July.  If you wish to be received as an Anglican Please give Rev Pauline a call. 
+Please let Sharyn know if you are attending—Saturday 31st July 11am at St Alban’s. This is a must for RI teachers, Sunday School teachers, LA’s and PC’s. If you are unable to attend you can use the online version.
 
 **Garage Sale**
 Our next Garage Sale will be held on September 17 & 18. Please keep all salable items ready. All items must be handed in by   31st August. We have a small amount of storage space for items. Please contact one of the Wardens with any questions. 
@@ -71,8 +69,6 @@ for Garage Sale We will run a raffle for the Garage Sale as we did for the Teapo
 **One for your diary - Rep Theatre Night**
 30th October - A comedy "One Slight Hitch".
 
-**Show your Colours**
-Cursillistas please wear rainbow colours, butterflies etc on 18th July
 
 **Cursillo Weekends**
 
