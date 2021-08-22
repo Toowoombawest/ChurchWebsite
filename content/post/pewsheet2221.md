@@ -1,7 +1,7 @@
 ---
 author: "Church"
 title: "Pew Sheet 22nd August 2021"
-image: "img/bible002.jpg"
+image: "img/stalbanday.jpg"
 draft: false
 date: 2021-08-21    
 description: "Thirteenth Sunday after Pentecost"
