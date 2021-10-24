@@ -1,32 +1,32 @@
 ---
 author: "Church"
-title: "Pew Sheet 17th October 2021"
-image: "img/stalbanday.jpg"
+title: "Pew Sheet 10th October 2021"
+image: "img/cross002.jpg"
 draft: false
-date: 2021-10-16    
-description: "Twenty-first Sunday after Pentecost"
+date: 2021-10-10    
+description: "Twentieth Sunday after Pentecost"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
-    canonical: "http://toowoombawest.org/post/pewsheet2221"
+    canonical: "http://toowoombawest.org/post/pewsheet1921"
 ---
 
 
 #### Sentence
 
-> The Son of Man came not to be served but to serve, and to give his life as a ransom for many.  Mark 10.45
+> There is no one who has left house or brothers or sisters or mother or father or children or fields, for Jesus’ sake, who will not receive a hundredfold now in this age, with persecutions, and in the age to come eternal life..  Mark 10.29-30
 
 #### Prayer of the Day
 
-> God of unchangeable power, when the heaven and earth were made, the morning stars sang together and host of heaven shouted for joy: open our eyes to the wonders of creation and teach us to use all things for good, to the honour of your glorious name; through Jesus Christ our Lord, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.   Amen 
+> Merciful God, in your Son you call not the righteous but sinners to repentance: draw us away from the easy road that leads to destruction, and guide us into paths that lead to life abundant, that in seeking your truth, and obeying your will, we may know the joy of being a disciple of Jesus our Saviour; who lives and reigns with ;you and the Holy Spirit, one God, now and forever.   Amen
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: Job 38: 1 - 7
-> * **Second Reading**: Hebrews 5: 1 - 10
-> * **Gospel Reading**: Mark 10: 35 - 45
-> * **Psalm**: Psalm 104: 1 - 10, 26
+> * **First Reading**: Job 23: 1 - 9, 16 - 17
+> * **Second Reading**: Hebrews 4: 12 - 16
+> * **Gospel Reading**: Mark 10: 17 - 31
+> * **Psalm**: Psalm 22: 1 - 15
 
 ---
 
@@ -42,14 +42,14 @@ seo:
 
 30th October—a comedy “One Slight Hitch”.   Tickets will be available soon $15 each, light nibbles only. Please write your name on the sheet provided in the foyer, or phone Wendy on  0455 922 024 for tickets. You will be allocated a seat.
 
+**Working Bee**
+
+St Alban’s 16th October 8am start
+
 **Next Combined Service**
 
 All Saints 7th November St Alban’s 10am
-
-**Reader for St Alban’s** 
-
-Another reader is required at the service please give Sharyn a call. It works out around every 5 weeks. 
-
+ 
 **Change from BCA to BMF**
 
 It has been brought to our attention that BCA no longer supports our Western Region but we do know that BMF does so we would like parishioners to support BMF. Boxes will be made available, ask Janelle or Sharyn.

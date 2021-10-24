@@ -26,11 +26,11 @@ canonical = "https://www.toowoombawest.org"
 
   [params.event]
 
-    first = "Wednesday 25th August - 10:30am - Service Ozcare"
-    second = "Thursday 26th August - 9:00am - Bible Study at Gail's House"
-    third = "Thursday 26th August - 2:00pm - Calm Colouring"
-    fourth = "Friday 27th August - 10:30pm - Morning Tea St Augustine's Hall"
-    fifth = "Saturday 28th July - 4:00pm - Winter Shelter"
+    first = "Monday 18th October - 10:00am - Bible Study at Ministry Centre"
+    second = "Monday 18th October - 2:00pm - Bible Study at Ministry Centre"
+    third = "Tuesday 19th October - 10:00am - Bible Study at St Augustine's"
+    fourth = "Tuesday 19th October - 7:00pm - Bible Study at Pauline's House"
+    fifth = "Wednesday 20th October - 10:30pm - Service Palm Lake Resort"
     
 
   [params.post]
