@@ -1,10 +1,10 @@
 ---
 author: "Church"
-title: "Pew Sheet 17th October 2021"
+title: "Pew Sheet 12th December 2021"
 image: "img/stalbanday.jpg"
 draft: false
-date: 2021-10-16    
-description: "Twenty-first Sunday after Pentecost"
+date: 2021-12-11    
+description: "Third Sunday of Advent"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
@@ -14,19 +14,19 @@ seo:
 
 #### Sentence
 
-> The Son of Man came not to be served but to serve, and to give his life as a ransom for many.  Mark 10.45
+> Bind up the broken-hearted, proclaim liberty to the captives and release to the prisoners, proclaim the year of the Lord’s favour, the day of vengeance of our God.  Isaiah 61.1-2
 
 #### Prayer of the Day
 
-> God of unchangeable power, when the heaven and earth were made, the morning stars sang together and host of heaven shouted for joy: open our eyes to the wonders of creation and teach us to use all things for good, to the honour of your glorious name; through Jesus Christ our Lord, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.   Amen 
+> Eternal God, you sent John the Baptist to prepare the way for the coming of your Son: grant us wisdom to see your purpose and openness to hear your will, that we too may prepare the way for Christ who is coming in power and glory to establish his rule of peace and justice; through  Jesus Christ our Judge and our Redeemer, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.   Amen 
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: Job 38: 1 - 7
-> * **Second Reading**: Hebrews 5: 1 - 10
-> * **Gospel Reading**: Mark 10: 35 - 45
-> * **Psalm**: Psalm 104: 1 - 10, 26
+> * **First Reading**:  Zephaniah 3: 14 - 20
+> * **Second Reading**: Philippians 4: 4 - 7
+> * **Gospel Reading**: Luke 3: 7 - 18
+> * **Psalm**: Song of Isaiah
 
 ---
 
@@ -36,44 +36,26 @@ seo:
 #### Notices
 ---
 
+**Choir for Christmas**
 
+Please join the choir to sing on Christmas Eve . Next practice will be Tuesday 14th then Wednesday 22nd 7pm at St Alban’s
 
-**Rep Theatre Night**
+**TOMRA**
 
-30th October—a comedy “One Slight Hitch”.   Tickets will be available soon $15 each, light nibbles only. Please write your name on the sheet provided in the foyer, or phone Wendy on  0455 922 024 for tickets. You will be allocated a seat.
+We have donated $500 to Tony’s Kitchen from the proceeds from your donations of bottles & cans. If you would like to contribute, please bring your cans etc and place in the bin in St Alban’s hall or take them to TOMRA yourself and use the code C10478658 for the money to go to the church.
+
+**Christmas Eve Carol & Nativity**
+ 
+Outdoors at St Alban’s commencing with a Sausage Sizzle at 6pm. 
 
 **Next Combined Service**
 
-All Saints 7th November St Alban’s 10am
+Christmas Day St Augustine’s 8am and Sunday 26th December, St Augustine’s 8am
 
-**Reader for St Alban’s** 
+**BMF**
 
-Another reader is required at the service please give Sharyn a call. It works out around every 5 weeks. 
+Supports our Western Region if you  would like  to support BMF. Boxes are now available, ask Janelle or Sharyn  
 
-**Change from BCA to BMF**
+**Tony’s Kitchen**
 
-It has been brought to our attention that BCA no longer supports our Western Region but we do know that BMF does so we would like parishioners to support BMF. Boxes will be made available, ask Janelle or Sharyn.
-
-**St Luke’s Pantry**
-
-Please bring non-perishable items to church on  the 1st Sunday of the month.  People are really are desperate for food. Tinned meals & vegetables, biscuits, & tuna always needed.
-
-**Prayer and Praise Service**
-
-6.00pm 2nd & 4th Friday nights of the month at St Alban’s.  We need a leader for this group. If you know  anyone or  musicians  please encourage them to speak with Pauline.
-
-**Cursillo Weekends**
- 
-M80 28-31 October & W80 4-7 November at Glendalough The Sunshine Coast. Please have mail to Sharyn by Wed 27th.
-
-**Toowoomba Gospel Festival 19-21 November Queens Park**
-
-A multicultural event. Friday 19th 6-10pm, Sat 20th 11am-10pm & Sun 21st 12-8pm. If you are able to assist in any way please call Paul Priman on 0479 162 105.
-
-**Archbishop’s November Appeal**
-
-will be going to the Torres Strait Island region and The Diocese of North Queensland for building up local leadership in the Torres Strait. 
-
-**Diocesan Ultreya 20th November St Barts Mt Gravatt**
-
-1357 Logan Road 12md BYO lunch, 1pm start. See Alan or Sharyn
+Requires rice cookers and slow cookers please. See Karen

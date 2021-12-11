@@ -26,11 +26,11 @@ canonical = "https://www.toowoombawest.org"
 
   [params.event]
 
-    first = "Monday 18th October - 10:00am - Bible Study at Ministry Centre"
-    second = "Monday 18th October - 2:00pm - Bible Study at Ministry Centre"
-    third = "Tuesday 19th October - 10:00am - Bible Study at St Augustine's"
-    fourth = "Tuesday 19th October - 7:00pm - Bible Study at Pauline's House"
-    fifth = "Wednesday 20th October - 10:30pm - Service Palm Lake Resort"
+    first = "Christmas Eve Carols 6pm At St Alban's"
+    second = "Christmas Day Service Combined at St Augustine's"
+    third = ""
+    fourth = ""
+    fifth = ""
     
 
   [params.post]
