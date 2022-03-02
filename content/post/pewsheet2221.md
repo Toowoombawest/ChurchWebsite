@@ -1,10 +1,10 @@
 ---
 author: "Church"
-title: "Pew Sheet 12th December 2021"
+title: "Pew Sheet 27th Feb 2022"
 image: "img/stalbanday.jpg"
 draft: false
-date: 2021-12-11    
-description: "Third Sunday of Advent"
+date: 2022-02-27    
+description: "Last Sunday after the Epiphany - Transfiguration"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
@@ -14,19 +14,19 @@ seo:
 
 #### Sentence
 
-> Bind up the broken-hearted, proclaim liberty to the captives and release to the prisoners, proclaim the year of the Lord’s favour, the day of vengeance of our God.  Isaiah 61.1-2
+> And the Word became flesh and dwelt among us, and we have seen his glory, the glory as of a father’s only son, full of grace and truth.
 
 #### Prayer of the Day
 
-> Eternal God, you sent John the Baptist to prepare the way for the coming of your Son: grant us wisdom to see your purpose and openness to hear your will, that we too may prepare the way for Christ who is coming in power and glory to establish his rule of peace and justice; through  Jesus Christ our Judge and our Redeemer, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.   Amen 
+> O God, glorious and faithful, you reveal the beauty of your face to those who seek you with a sincere heart: strengthen us in faith to embrace the mystery of the cross, and open our hearts to its transforming power, so that clinging in love to your will for us, we may walk as followers of your Son, Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, for ever and ever.   Amen 
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**:  Zephaniah 3: 14 - 20
-> * **Second Reading**: Philippians 4: 4 - 7
-> * **Gospel Reading**: Luke 3: 7 - 18
-> * **Psalm**: Song of Isaiah
+> * **First Reading**:  Exodus 34.29-35
+> * **Second Reading**:  2Corinthians 3.12-4.2 
+> * **Gospel Reading**:  Luke 6.39-49 
+> * **Psalm**:  99 
 
 ---
 
@@ -36,26 +36,30 @@ seo:
 #### Notices
 ---
 
-**Choir for Christmas**
+**Bible Study**
+Recommences on 28 Feb “Conversations with an Awesome God” by Bp Bill Ray. Times on the left. Please sign up form is in the foyer.
 
-Please join the choir to sing on Christmas Eve . Next practice will be Tuesday 14th then Wednesday 22nd 7pm at St Alban’s
+**Shrove Tuesday**
+(Pancake Day) Service & Meal St Augustine’s 6pm1st March. Please add your name to the list in the foyer if you are attending.
 
-**TOMRA**
+**Ash Wednesday**
+There will be 2 services, 9am at St Alban’s and 6pm at St Augustine’s Wednesday 2nd March 
 
-We have donated $500 to Tony’s Kitchen from the proceeds from your donations of bottles & cans. If you would like to contribute, please bring your cans etc and place in the bin in St Alban’s hall or take them to TOMRA yourself and use the code C10478658 for the money to go to the church.
+**World Day of Prayer**
+Friday 4th March 10am St Alban’s
 
-**Christmas Eve Carol & Nativity**
- 
-Outdoors at St Alban’s commencing with a Sausage Sizzle at 6pm. 
+**Edwin Mengel Bowls Night**
+another fun evening playing indoor bowls. Come along and play with the family. Saturday 19th March at 7pm Phone Clare 0449 075 829 
 
-**Next Combined Service**
+**Garage Sale**
+Our next sale will be on 1st & 2nd April. Would you please start collecting items. All items to be clean and unbroken. Do you have any room that we could store items until the garage sale. Don’t forget to start making jams & pickles and potting plants - They are always well received. Contact Geoff if you have any enquiries 0418 998 001 
 
-Christmas Day St Augustine’s 8am and Sunday 26th December, St Augustine’s 8am
+**Cent Sale**
+at St Augustine’s on May 7th at 1.30pm. Donations of prizes, cooking (biscuits, slices, jams etc, craft for the Trading Table & help or attendance on the day would be greatly appreciated from the St Augustine’s congregation as there is no longer a Guild. All enquiries to                           Wendy 0455 922 024
 
-**BMF**
-
-Supports our Western Region if you  would like  to support BMF. Boxes are now available, ask Janelle or Sharyn  
+**Rep Theatre**
+much earlier this year. Pride & Prejudice . The costumes will be exceptional. Friday 12th August at 7pm. Phone Wendy 0455 922 024  
 
 **Tony’s Kitchen**
 
-Requires rice cookers and slow cookers please. See Karen
+is in desperate need of people willing to cook meals and serve for those in need. If you are able to assist, please see Rev Pauline, Rev Terry & Karen. 

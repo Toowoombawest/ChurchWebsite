@@ -1,16 +1,16 @@
 ---
 author: "church"
-title: "Christmas Eve Carols and Nativity"
-image: "img/carols.jpg"
+title: "Church Garage Sale"
+image: "img/garage.jpg"
 draft: false
-date: 2021-12-11
-description: "Christmas Eve Carols and Nativity"
+date: 2022-02-27
+description: "Upcoming Church Garage Sale"
 
 seo: 
-    description: "Christmas Eve Carols and Pageant"
+    description: "Church Garage Sale"
     canonical: "http://toowoombawest.org/post/christmas"
 
 ---
 
 
-Bring your neighbours, friends and loved ones, to enjoy a night of carol siging at St Albans. Commencing with a sausage sizzle at 6pm. 
+Our next sale will be on 1st & 2nd April. Would you please start collecting items. All items to be clean and unbroken. Do you have any room that we could store items until the garage sale. Don’t forget to start making jams & pickles and potting plants - They are always well received. Contact Geoff if you have any enquiries 0418 998 001
