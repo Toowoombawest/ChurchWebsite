@@ -1,10 +1,10 @@
 ---
 author: "Church"
-title: "Pew Sheet 20th Feb 2022"
-image: "img/holy.jpg"
+title: "Pew Sheet 1st May 2022"
+image: "img/stalbanday.jpg"
 draft: false
-date: 2022-02-10    
-description: "Seventh Sunday after the Epiphany"
+date: 2022-04-29    
+description: "Thrid Sunday after Easter"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
@@ -14,19 +14,19 @@ seo:
 
 #### Sentence
 
-> Blessed are you when people hate you on account of the Son of man. Rejoice and leap for joy, for behold, your reward is great in heaven. 
+> Peace be with you,’ says the Lord, ’As the Father has sent, so I send you. 
 
 #### Prayer of the Day
 
-> Righteous God, you challenge the powers that rule this world and you show favour to the oppressed: instil in us a true sense of justice, that we may discern the signs of your kingdom and strive for right to prevail; for the sake of   Jesus Christ our Lord, who lives and reigns with you in the unity of the Holy Spirit, one God, for ever and ever.   Amen
+> Almighty God, through your only Son you overcame death and opened to us the gate of everlasting life: grant that we who celebrate our Lord’s resurrection, may, through the renewing power of your Spirit, rise from the death of sin to the life of righteousness; through the same Jesus Christ our Lord, who lives and reigns with you and the Holy   Spirit, one God, now and for ever.    Amen
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: Genesis 45.3-11, 15  
-> * **Second Reading**: 1Corinthians 15.35-50
-> * **Gospel Reading**: Luke 6.27-38
-> * **Psalm**: 37.1-11, 40-41 
+> * **First Reading**: Acts 9.1-6 
+> * **Second Reading**: Revelation 5.6-14
+> * **Gospel Reading**: John 21.1-19
+> * **Psalm**: 30
 
 ---
 
@@ -37,29 +37,40 @@ seo:
 ---
 Signing in at church is no longer necessary.  Mask wearing is still mandatory.
 
-**Morning Tea**
-and entertainment for people who no longer can come to church or are on their own or lonely. 4th Friday of the month St Augustine’s 10.30am. Bookings are essential - call Wendy 0455 922 024 
+**Cent Sale**
+at St Augustine’s on May 7th at 1.30pm. Donations of prizes, cooking (biscuits, slices, jams etc, craft for the Trading Table & help or attendance on the day would be greatly appreciated as there is no longer a Guild. All     enquiries to Wendy 0455 922 024 
 
-**Taize Service**
-4th Saturday of month 6pm St Alban’s. A quiet and contemplative service. Where the soul is saved by music.
+**Bible Study**
+recommences Monday 2nd May for 6 weeks.
 
-**Bible Study Recommences**
-on 28 Feb “Conversations with an Awesome God” by Bishop Bill Ray. See times on the left. Please sign up –form is in the foyer.  
+**Parish Raffle**
+We are going to have a raffle with a beautiful quilt as first prize and groceries and a fruit cake, second prize and 3rd prize is a box of fruit. Please bring in special grocery items to add to the prizes. We need to sell tickets now, so please take 10 tickets to sell and add your name to the list. Tickets must be back by 1st May. Please bring your tickets into the office or drop off at cent sale. To be dawn at Cent Sale on May 7th.  
 
-**Shrove Tuesday**
-(Pancake Day) Service & Meal at St Augustine’s 6pm Tuesday 1st March. Please add your name to the list in the foyer if you are attending.  
+**Support for Bishop Jacob Deng**
+travelling to South Sudan to conduct his ministry with no finance and leaving his family behind for 2 years. We would like to support Bishop Jacob by having a retiring collection on the 2nd Sunday of the month.  
 
-**Ash Wednesday**
-There will be 2 services, 9am at St Alban’s and 6pm at St Augustine’s Wednesday 2nd March
+**Mayoral Prayer Breakfast**
+Rumours International 6am to 8am on 24th May. Guest Speaker is Greg Sheriday. $25 a head To book ring Sharyn 
 
-**World Day of Prayer**
-Friday 4th March 10am St Alban’s.   
+**St Augustine’s Day**
+Combined service at St Augustine’s 8am May 29th. Let’s celebrate together. Followed by breakfast/morning tea in the hall.    
 
-**Edwin Mengel Bowls Night**
-another fun evening playing indoor bowls. Come along and play with the family. Saturday 19th March at 7pm Phone Clare 0449 075 829 
+**Winter Shelter** 
+begins for Toowoomba West 4th June. We are looking for volunteers and we all need to do the training for Winter Shelter. Please give Sharyn a call if you are willing to volunteer. 
 
-**Garage Sale**
-Our next sale will be on 1st & 2nd April. Would you please start collecting items. All items to be clean and unbroken. Contact Geoff if you have any enquiries 0418 998 001 
+**Ultreya** 
+here at Toowoomba West Saturday 11th June.
+
+**Synod**
+will run from 24th June to 26th June.
+
+**Rep Theatre**
+Pride & Prejudice . The costumes will be exceptional. Friday 12th August at 7pm. Phone Wendy 0455 922 024
+
+**Pastoral Carers needed** 
+urgently see Rev Pauline
 
 **Tony’s Kitchen**
 is in desperate need of people willing to cook meals and serve for those in need. If you are able to assist, please see Rev Pauline, Rev Terry & Karen.
+
+**Next Garage Sale** September 16th & 17th September. Please keep all those items that sell well. Enquires to Geoff
