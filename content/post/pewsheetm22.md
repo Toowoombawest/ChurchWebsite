@@ -1,32 +1,32 @@
 ---
 author: "Church"
-title: "Pew Sheet 8th May 2022"
-image: "img/service_img.jpg"
+title: "Pew Sheet 15th May 2022"
+image: "img/bible002.jpg"
 draft: false
-date: 2022-05-08    
-description: "Fourth Sunday after Easter"
+date: 2022-05-14    
+description: "Fifth Sunday after Easter"
 
 seo: 
     description: "This is a post page for St Alban's Church and St Augustine's Church Toowoomba"
-    canonical: "http://toowoombawest.org/post/pewsheet03"
+    canonical: "http://toowoombawest.org/post/pewsheetm22"
 ---
 
 
 #### Sentence
 
-> The Lamb in the midst of the throne will be their shepherd, and will guide them to springs of the water of life, and God will wipe away every tear from their eyes.     Revelation 7.17
+> ‘I give you a new commandment,’ says the Lord, ‘that you love one another. As I have loved you, you also should love one another.’     John 13.34  
 
 #### Prayer of the Day
 
-> Gracious God, you sent Jesus, the good shepherd, to    gather us together: may we not wander from his flock, but follow wherever he leads us, listening for his voice and staying near him, until we are safely in your fold, to live with you for ever; through Jesus Christ our Lord, who lives and reigns with you and the Holy Spirit, one God, now and for ever.    Amen 
+> We behold your glory, O God, in the love shown by your Son, lifted up on the cross and exalted on high: be glorified anew in the love we have for one another as disciples of the risen Lord Jesus, who lives and reigns with you, in the unity of the Holy Spirit, one God, for ever and ever.    Amen 
 
 
 
 #### Next Sundays Bible Readings
-> * **First Reading**: Acts 9.36-43 
-> * **Second Reading**:  Revelation 7.9-17
-> * **Gospel Reading**:  John 10.22-30
-> * **Psalm**: 23 
+> * **First Reading**: Acts  11.1-18   
+> * **Second Reading**:  Revelation  21.1-6
+> * **Gospel Reading**:  John 13.31-35
+> * **Psalm**: 148
 
 ---
 
@@ -38,17 +38,12 @@ seo:
 
 Signing in at church is no longer necessary.  Mask wearing is still mandatory.
 
-**Cent Sale**
-at St Augustine’s went very well. Thank you for all of your support.  
-
-**Trivia Night**
-Come & join the fun. Please contact Rhonda, if you are coming. This Saturday, 14th May 7pm at St Alban’s hall.
 
 **Group Reunion**
-If you are a Cursillista (or not) please join us on Saturday 8am at St Alban’s for breakfast and Group Reunion. Please let Alan know if you are coming for cooking purposes 0425 288 985 
+If you are a Cursillista (or not) please join us on Saturday 8am at St Alban’s for breakfast and Group Reunion. Please let Alan know if you are coming for cooking purposes 0425 288 985
 
-**Busy Bees**
-will recommence on Saturday 14th May. Come and join this happy band of ladies. You can finish craft items, get advice on projects, or you can play table games, cards,  or just come for coffee and a chat. Starts 10.30am, BYO lunch.  
+**Mini Garage Sale**
+Saturday 21st May in St Alban’s hall. Assistance required. We need lots of home cooking. Please phone Wendy
 
 **Mayoral Prayer Breakfast**
 Rumours International 6am to 8am on 24th May. Guest Speaker is Greg Sheriday. $25 a head To book ring Sharyn 
@@ -58,6 +53,9 @@ Combined service at St Augustine’s 8am May 29th. Let’s celebrate together. F
 
 **Winter Shelter** 
 begins for Toowoomba West 4th June. We are looking for volunteers and we all need to do the training for Winter Shelter. Please give Sharyn a call if you are willing to volunteer. 
+
+**Support for Toogoolawah**
+Service at 5.30pm, we will be leaving at 3.30pm 5th June. Please see Rev Pauline or Alan. May be able to hire a bus.
 
 **Ultreya** 
 here at Toowoomba West Saturday 11th June.
