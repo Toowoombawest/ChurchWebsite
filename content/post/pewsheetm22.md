@@ -3,7 +3,7 @@ author: "Church"
 title: "Pew Sheet 15th May 2022"
 image: "img/bible002.jpg"
 draft: false
-date: 2022-05-14    
+date: 2022-05-09    
 description: "Fifth Sunday after Easter"
 
 seo: 
